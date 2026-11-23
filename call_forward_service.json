@@ -1,0 +1,14 @@
+{
+  "pillar_locations": [
+    {
+      "location": "North Plant",
+      "engineering_service": "Mechanical Engineering",
+      "destination": "+12565161963"
+    },
+    {
+      "location": "South Plant",
+      "engineering_service": "Electrical Engineering",
+      "destination": "+12563649079"
+    }
+  ]
+}
