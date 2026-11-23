@@ -1,14 +1,13 @@
-{
-  "pillar_locations": [
+[ 
     {
-      "location": "North Plant",
+      "pillar_location": "North Plant",
       "engineering_service": "Mechanical Engineering",
-      "destination": "+12565161963"
+      "call_forward": "+12565161963"
     },
     {
-      "location": "South Plant",
+      "pillar_location": "South Plant",
       "engineering_service": "Electrical Engineering",
-      "destination": "+12563649079"
+      "call_forward": "+12563649079"
     }
-  ]
-}
+  
+]
