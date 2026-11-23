@@ -1,6 +1,7 @@
-{
-  "found": true,
-  "partNumber": "123-4568",
-  "cartNumber": "CART-12",
-  "pillarNumber": "P-4"
-}
+[
+  {
+    "partNumber": "123-4568",
+    "cartNumber": "12",
+    "pillarNumber": "4"
+  }
+]
